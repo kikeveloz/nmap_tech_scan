@@ -21,8 +21,10 @@ Antes de ejecutar el script, asegúrate de tener los siguientes paquetes instala
 sudo apt install whatweb nmap dnsutils -y
 pip install python-nmap colorama```
 
-📌 **Ejecución:**
-```bash
+---------------------------------------------------------
+
+Ejecución:
+
 python3 nmap_tech_scan.py
 
 🔹 Ingrese la URL a evaluar (sin http/https):ejemplo.com
