@@ -19,7 +19,7 @@ Antes de ejecutar el script, asegúrate de tener los siguientes paquetes instala
 📌 **Herramientas necesarias:**
 ```bash
 sudo apt install whatweb nmap dnsutils -y
-pip install python-nmap colorama
+pip install python-nmap colorama```
 
 📌 **Ejecución:**
 ```bash
